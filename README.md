@@ -35,6 +35,6 @@ This webpage displays a countdown timer to the New Year. It features a dynamic d
 
 *   The countdown timer is accurate to within 1 second.
    
-*   The confetti effect is displayed for 3 seconds.
+*   The confetti effect is displayed for 5 minutes.
    
 *   The webpage is designed to work in all modern web browsers.
